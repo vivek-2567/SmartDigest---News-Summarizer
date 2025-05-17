@@ -10,6 +10,8 @@ An intelligent news aggregation and summarization tool that uses AI to provide c
 
 </div>
 
+DEMO: The project is deployed at streamlit cloud. Anyone can access it using the link [ Demo: https://smartdigest.streamlit.app ](https://smartdigest.streamlit.app)
+
 ## 🌟 Features
 
 ### News Aggregation
