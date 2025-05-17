@@ -2,7 +2,7 @@ import streamlit as st
 from consume_rss_feed import parse_rss_feed, fetch_article_content
 from llm_qa import summarize_article
 
-st.title("News Summarizer")
+st.title("Smartdigest - News Summarizer")
 
 # Initialize session states
 if 'article_summaries' not in st.session_state:
